@@ -27,11 +27,6 @@ This project explores how accessible parks are across Manhattan by estimating 5-
 Park access in Manhattan is shaped by a few large anchor parks, which generate broad coverage zones, while smaller parks create more fragmented access across dense neighborhoods.
 
 
-## Interactive Map
-
-[View the map](map.html)
-
-
 ## Files
 
 - `manhattan_park_accessibility.ipynb` — full analysis  
