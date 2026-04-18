@@ -1,7 +1,7 @@
 # Within Reach? Park Access Across Manhattan
 
 An interactive geospatial analysis of park accessibility in Manhattan, modeling walkable access to green space using buffer-based spatial analysis.
-
+![Map Preview](map_preview.png)
 [View the interactive map here](https://sarahfeuer.github.io/within-reach-nyc-parks/)
 
 
